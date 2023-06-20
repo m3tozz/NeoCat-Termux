@@ -1,6 +1,6 @@
 # NeoCat NeoFetch Theme Pack. (For-Termux)
 ⮩<a href="https://www.pling.com/p/2034925/">Pling.com</a>|<a href="https://www.buymeacoffee.com/m3tozz/">Buymeacoffe.com</a>|<a href="https://www.instagram.com/metinzuhree/">Instagram.com</a>
-<p align="left"><img src="https://github.com/m3tozz/NeoCat-Termux/assets/79897762/ad6a5fbd-f913-41a1-81e8-ad9fc186cfac"
+<p align="left"><img src="https://github.com/m3tozz/NeoCat-Termux/assets/79897762/5cb6998e-66d1-4c79-a156-bfec3abaa4ea"
                      
 --------------------------------------------------------------------------
 Installation
