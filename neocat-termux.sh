@@ -280,12 +280,12 @@ elif [[ $islem == 18 ]]; then
         clear
                 echo -e '\033[0m 
 |\---/|
-| o_o |Palm
+| o_o |Duck
  \_^_/                                     
 '
 rm -r /data/data/com.termux/files/home/.config/neofetch
 sleep 1
-        cd Themes/Palm/ && cp -r neofetch /data/data/com.termux/files/home/.config/neofetch
+        cd Themes/Duck/ && cp -r neofetch /data/data/com.termux/files/home/.config/neofetch
 clear   
 neofetch
 
