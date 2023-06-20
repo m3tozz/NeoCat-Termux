@@ -23,7 +23,7 @@ echo -e '\033[0;36m
 \033[1;33m[15]\e[0;32mSmall-Android
 \e[1;35m[16]\e[0;32mPhone
 \e[1;34m[17]\e[0;32mSimba
-\033[1;33m[18]\e[0;32mPalm
+\033[1;33m[18]\e[0;32mDuck
 \033[1;31m[x]Exit 
 [D]Default-Theme
 '
