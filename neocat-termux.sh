@@ -9,7 +9,7 @@ echo -e '\033[0;36m
 \e[1;34m[01]\e[0;32mLoki-Ranger
 \e[1;35m[02]\e[0;32mFast-Snail
 \e[1;31m[03]\e[0;32mSpongeBob
-\033[1;33m[04]\e[0;32mDino-Rex
+\e[1;34m[04]\e[0;32mDino-Rex
 \033[1;33m[05]\e[0;32mSmile
 \e[1;36m[06]\e[0;32mCrocodile
 \e[1;35m[07]\e[0;32mOWL
@@ -22,6 +22,8 @@ echo -e '\033[0;36m
 \e[1;35m[14]\e[0;32mCocktail
 \033[1;33m[15]\e[0;32mSmall-Android
 \e[1;35m[16]\e[0;32mPhone
+\e[1;34m[17]\e[0;32mSimba
+\033[1;33m[18]\e[0;32mPalm
 \033[1;31m[x]Exit 
 [D]Default-Theme
 '
@@ -258,6 +260,35 @@ sleep 1
         cd Themes/Phone/ && cp -r neofetch /data/data/com.termux/files/home/.config/neofetch
 clear   
 neofetch
+
+elif [[ $islem == 17 ]]; then
+        sleep 1
+        clear
+                echo -e '\033[0m 
+|\---/|
+| o_o |Simba
+ \_^_/                                     
+'
+rm -r /data/data/com.termux/files/home/.config/neofetch
+sleep 1
+        cd Themes/Simba/ && cp -r neofetch /data/data/com.termux/files/home/.config/neofetch
+clear   
+neofetch
+
+elif [[ $islem == 18 ]]; then
+        sleep 1
+        clear
+                echo -e '\033[0m 
+|\---/|
+| o_o |Palm
+ \_^_/                                     
+'
+rm -r /data/data/com.termux/files/home/.config/neofetch
+sleep 1
+        cd Themes/Palm/ && cp -r neofetch /data/data/com.termux/files/home/.config/neofetch
+clear   
+neofetch
+
 
 elif [[ $islem == D || $islem == d  ]]; then
         sleep 1
