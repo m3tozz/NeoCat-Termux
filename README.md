@@ -14,6 +14,11 @@ cd NeoCat-Termux
 ```bash
 bash ./neocat-termux.sh
 ```
+
+--------------------------------------------------------------------------
+
+<p align="center"><img src="https://github.com/m3tozz/NeoCat-Termux/assets/79897762/64f45dc3-55bc-437c-bdbd-8c4e3ef72b16"> 
+
 --------------------------------------------------------------------------
 Donate | Bağış Yap
  --
