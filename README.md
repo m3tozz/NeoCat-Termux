@@ -5,6 +5,7 @@
 
 --------------------------------------------------------------------------
 
+--------------------------------------------------------------------------
 <img src="https://hits.sh/github.com/m3tozz/NeoCat-Termux.svg?color=cc1111" alt="r10" hspace="10"  align="right" /> What is NeoCat? <br>
 NeoCat contains its own neofetch configurations and uploads the selected configuration to your system!
 
