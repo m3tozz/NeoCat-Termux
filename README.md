@@ -9,6 +9,7 @@
 NeoCat contains its own neofetch configurations and uploads the selected configuration to your system!
 
 --------------------------------------------------------------------------
+
 Installation
 --
 ```bash
