@@ -23,7 +23,8 @@ bash ./neocat-termux.sh
 
 --------------------------------------------------------------------------
 
-<p align="center"><img src="https://github.com/m3tozz/NeoCat-Termux/assets/79897762/64f45dc3-55bc-437c-bdbd-8c4e3ef72b16"> 
+<p align="center"><img src="https://github.com/m3tozz/NeoCat-Termux/assets/79897762/64f45dc3-55bc-437c-bdbd-8c4e3ef72b16">
+<a href="https://discord.gg/sQwYCZer95"><img src="https://img.shields.io/badge/Join The NeoCat's Community Discord Server-grey?&logo=discord" alt="r10" hspace="10"  align="center" /></a>
 
 --------------------------------------------------------------------------
 
