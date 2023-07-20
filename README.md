@@ -9,8 +9,7 @@
 NeoCat contains its own neofetch configurations and uploads the selected configuration to your system!
 
 --------------------------------------------------------------------------
-
-Installation
+<a href="https://www.instagram.com/metinzuhree/"><img src="https://img.shields.io/badge/metinzuhree-grey?&logo=instagram" alt="r10" hspace="10"  align="right" /></a>Installation
 --
 ```bash
 git clone https://github.com/m3tozz/NeoCat-Termux.git
@@ -28,7 +27,7 @@ bash ./neocat-termux.sh
 
 --------------------------------------------------------------------------
 
-Donate | Bağış Yap
+Support | Bağış Yap
  --
  <p align="left"><a href="https://kreosus.com/m3tozzch4rm">Donate Link (Turkish)</a> or <align="right"><a href="https://www.buymeacoffee.com/m3tozz">BuyMeACoffee</a>.
  
